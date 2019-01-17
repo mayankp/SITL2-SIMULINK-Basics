@@ -1,2 +1,2 @@
-# SITL1-Matlab-Basics
-To study Basic operations in MATLAB
+# SITL2-SIMULINK-Basics
+To study Basic operations in SIMULINK
